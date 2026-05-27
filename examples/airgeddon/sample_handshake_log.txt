@@ -1,0 +1,18 @@
+====================================================================
+           AIRGEDDON WIRELESS AUDIT SESSION LOG
+====================================================================
+[TIMESTAMP] 2026-05-26 21:20:00 IST
+[INTERFACE] wlan0mon (Monitor Mode Enabled)
+[CHIPSET]   Atheros AR9271
+
+[*] Scanning for Target BSSIDs...
+[FOUND] BSSID: AA:BB:CC:DD:EE:FF | CH: 6 | RSSI: -42dBm | ESSID: Lab_Test_AP
+
+[*] Launching Deauthentication Broadcast Attack...
+[+] Sending 10 deauth packets to target clients via aireplay-ng...
+[+] Client 11:22:33:44:55:66 disconnected.
+
+[*] Listening for WPA/WPA2 4-Way Handshake...
+[SUCCESS] WPA Handshake Captured successfully!
+[ARTIFACT] Saved to: ~/UniversalTool/logs/handshakes/Lab_Test_AP_AA-BB-CC-DD-EE-FF.cap
+====================================================================

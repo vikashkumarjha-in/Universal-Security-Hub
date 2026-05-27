@@ -1,0 +1,9 @@
+[+] Hound Web Beacon Metadata Intercept Logs
+--------------------------------------------------
+Timestamp: 2026-05-26 21:15:22 IST
+Latitude: 28.6280
+Longitude: 77.3800
+Google Maps Link: https://maps.google.com/?q=28.6280,77.3800
+Public IP Reference: 198.51.100.42
+User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Platform / Architecture: Linux x86_64 (6 Cores)
