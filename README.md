@@ -78,10 +78,8 @@
 
 <div align="center">
 
-![System Architecture Diagram](assets/diagrams/system_architecture.png)
+![System Architecture Diagram](assets/screenshots/architecture.png)
 
-> **📐 Replace** `assets/diagrams/system_architecture.png` with your actual architecture diagram.  
-> Recommended tool: [draw.io](https://app.diagrams.net/) or [Lucidchart](https://lucidchart.com/).
 
 </div>
 
