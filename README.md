@@ -611,26 +611,6 @@ Examples:
 
 ---
 
-## ⚖️ Ethical & Legal Disclaimer
-
-> **🚨 FOR EDUCATIONAL AND AUTHORIZED RESEARCH USE ONLY**
-
-The **Universal Security Hub** is developed strictly for academic and research purposes. It is designed to serve as a platform for security professionals and students to study attack vectors, threat simulation, and defensive strategies within **isolated, controlled, and sandboxed environments**.
-
-**By using this software, you agree to the following terms:**
-
-* **Authorization:** All reconnaissance, vulnerability assessments, and security testing must be performed **only on systems, networks, and devices you own** or have received **explicit written authorization** to audit.
-* **Ethical Constraints:** This tool is strictly **not** intended for use against production systems, third-party networks, or any target without prior legal consent.
-* **Liability:** The authors and contributors bear **no responsibility** for any misuse, data loss, unauthorized access, or legal consequences arising from the use or distribution of this software. 
-
-### Legal Compliance
-Unauthorized access to computer systems or networks is a serious offense and may violate national and international laws, including but not limited to the **Information Technology Act (India)**, the **Computer Fraud and Abuse Act (CFAA, USA)**, and the **General Data Protection Regulation (GDPR)** where applicable. 
-
-### Framework Alignment
-This project is built to align with the **OWASP Web Security Testing Guide (WSTG)**. Users are encouraged to maintain the highest standards of professional conduct and adhere to the principles of responsible disclosure.
-
-*If you are using this tool for security research, always prioritize the integrity and privacy of the systems you are auditing.*
-
 ---
 
 ## 📬 Contact & Support
