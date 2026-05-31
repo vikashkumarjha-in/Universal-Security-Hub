@@ -1,9 +1,17 @@
-# 📡 Airgeddon Interface Module
+📡 Airgeddon Interface Module
+Overview
+This module functions as the asynchronous orchestration gateway for wireless signal auditing. Given that wireless penetration testing requires specific hardware states (Monitor Mode), packet injection, and interactive user prompts, this module delegates runtime control to qterminal to ensure the primary GUI dashboard remains responsive.
 
-## Overview
-This module acts as the integration gateway for wireless security auditing. Because wireless environments require administrative card access, interactive terminal monitoring, and multi-stage menus, this module interfaces directly with `qterminal`.
+Operational Workflow
+Hardware Verification: The module performs an automated check for packet-injection-capable wireless interfaces (e.g., wlan0mon).
 
-## Operational Workflow
-1. **Interface Tracking:** The framework verifies the availability of a packet-injection-capable wireless interface (`wlan0`/`wlan1`).
-2. **Execution Hook:** Spawns a separate, interactive console wrapper executing `sudo airgeddon` to prevent shell disruption or freezing within the master Tkinter dashboard.
-3. **Log Handling:** Captured raw `.cap` files and execution flags are stored locally within the `~/UniversalTool/logs/` environment directory.
+Process Isolation: Spawns a dedicated, interactive shell session executing sudo airgeddon. This prevents the master Tkinter loop from freezing during lengthy scanning or handshake capture processes.
+
+Data Persistence: Raw .cap captures, handshake logs, and execution session snapshots are mapped to the centralized ~/UniversalTool/logs/ directory tree for post-session analysis.
+
+Prerequisites
+Hardware: Wireless adapter supporting Monitor Mode and Packet Injection (e.g., Atheros AR9271).
+
+Dependencies: aircrack-ng, airgeddon (installed via system package manager).
+
+Permissions: Requires sudo privileges to manipulate wireless device states.
