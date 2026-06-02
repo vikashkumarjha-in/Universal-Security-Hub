@@ -1,18 +1,28 @@
 <div align="center">
 
-# 🛡️ Universal Security Hub
-
+# 🛡️ Universal Security Hub  
 ### *Cybersecurity Toolkit for Ethical Hacking & Threat Analysis*
 
+---
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)](https://www.kali.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![OWASP](https://img.shields.io/badge/OWASP-WSTG%20Compliant-003366?style=for-the-badge)](https://owasp.org/www-project-web-security-testing-guide/)
-[![GitHub Stars](https://img.shields.io/github/stars/vikashkumarjha-in/Universal-Security-Hub?style=for-the-badge&logo=github)](https://github.com/vikashkumarjha-in/Universal-Security-Hub/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/vikashkumarjha-in/Universal-Security-Hub?style=for-the-badge&logo=github)](https://github.com/vikashkumarjha-in/Universal-Security-Hub/network/members)
+[![Python](https://img.shields.io/badge/GUI-Python%203%20%2F%20Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)](ca://s?q=Python_Tkinter_GUI_Framework)
+[![Concurrency](https://img.shields.io/badge/Concurrency-threading%20stdlib-ff9800?style=for-the-badge&logo=python&logoColor=white)](ca://s?q=Python_threading_for_concurrency)
+[![Process](https://img.shields.io/badge/Process-subprocess.Popen-795548?style=for-the-badge&logo=terminal&logoColor=white)](ca://s?q=Python_subprocess_Popen)
+[![Nmap](https://img.shields.io/badge/Network-Nmap%207.94-2b7fff?style=for-the-badge&logo=gnu-bash&logoColor=white)](ca://s?q=Nmap_network_scanning)
+[![NSE](https://img.shields.io/badge/Scripting-NSE%20Engine-003366?style=for-the-badge&logo=security&logoColor=white)](ca://s?q=Nmap_Scripting_Engine)
+[![Zphisher](https://img.shields.io/badge/Phishing-Zphisher-cc0000?style=for-the-badge&logo=hackaday&logoColor=white)](ca://s?q=Zphisher_phishing_tool)
+[![Tunnelling](https://img.shields.io/badge/Tunnelling-Ngrok%20%2F%20Cloudflare-009688?style=for-the-badge&logo=cloudflare&logoColor=white)](ca://s?q=Ngrok_vs_Cloudflare_tunneling)
+[![Airgeddon](https://img.shields.io/badge/WiFi-Airgeddon-ff6600?style=for-the-badge&logo=wifi&logoColor=white)](ca://s?q=Airgeddon_WiFi_auditing)
+[![Hound](https://img.shields.io/badge/GPS-Hound-444444?style=for-the-badge&logo=search&logoColor=white)](ca://s?q=Hound_GPS_recon_tool)
+[![Terminal](https://img.shields.io/badge/Terminal-qterminal-607d8b?style=for-the-badge&logo=gnometerminal&logoColor=white)](ca://s?q=Qterminal_terminal_emulator)
+[![Bash](https://img.shields.io/badge/Scripting-Bash-4caf50?style=for-the-badge&logo=gnu-bash&logoColor=white)](ca://s?q=Bash_shell_scripting)
+[![GitHub](https://img.shields.io/badge/Version%20Control-Git%20%2F%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](ca://s?q=Git_and_GitHub_version_control)
+[![Platform](https://img.shields.io/badge/OS-Kali%20Linux%20(rolling)-557C94?style=for-the-badge&logo=linux&logoColor=white)](ca://s?q=Kali_Linux_platform)
+[![Virtualization](https://img.shields.io/badge/VM-Virtual%20Machine%20Support-673ab7?style=for-the-badge&logo=virtualbox&logoColor=white)](ca://s?q=Virtual_Machine_support)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge)](docs/CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+
+
 
 <br/>
 
