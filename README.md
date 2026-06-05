@@ -72,7 +72,7 @@
 
 | GUI Dashboard | Live Scan Output |
 |:---:|:---:|
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Scan Output](assets/screenshots/scan_output.png) |
+| ![Dashboard](assets/screenshots/Dashboard.png) | ![Scan Output](assets/screenshots/scan_output.png) |
 | *Command Center sidebar with module buttons* | *Real-time Nmap output in the Command Center* |
 
 | Vulnerability Report | Hound GPS Capture |
